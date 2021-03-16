@@ -1,6 +1,5 @@
 ### Hi this is Tina 👋
 
-- 👩‍💻  I recently completed Le Wagon Full-Stack Web Development Bootcamp
 - 👩‍🎓  I’m planning to learn React
 - 🤿  I’m looking forward to dive deeper in JavaScript
 - 📚  I worked on 3 different projects using Ruby on Rails. You can check the most recent here: http://www.plantpicker.org/

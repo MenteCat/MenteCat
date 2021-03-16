@@ -6,7 +6,7 @@
 - 📚 I worked on 3 different projects using Ruby on Rails.
 - 🔍 Searching small projects/collaborations to get started
 - 💬 Always up for a good chat/receive friendly advices
-- 📫 How to reach me:tinaiuso@gmail.com
+- 📫 How to reach me: tinaiuso@gmail.com
 
 - ⚡ Fun fact: before signing up to GitHub I was genuinly convinced that "Pull requests" was named "Poor requests" as I misheard a developer.
 

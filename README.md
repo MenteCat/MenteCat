@@ -4,7 +4,7 @@
 - 👩‍🎓  I’m planning to learn React
 - 🤿  I’m looking forward to dive deeper in JavaScript
 - 📚  I worked on 3 different projects using Ruby on Rails.
-- 🔍  Searching small projects/collaborations to get started
+- 🔍  Searching small projects/collaborations to get started with the post-Bootcamp life!
 - 💬  Always up for a good chat/receive friendly advices
 - 📫  How to reach me: tinaiuso@gmail.com
 

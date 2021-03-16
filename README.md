@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi this is Tina 👋
 
 - 👩‍💻  I recently completed Le Wagon Full-Stack Web Development Bootcamp
 - 👩‍🎓  I’m planning to learn React

@@ -1,7 +1,7 @@
 ### Hi this is Tina 👋
 
-- 🚧  Currently working on Portfolio using CSS, HTML, JavaScript.
-- 🤿  Diving deeper in JavaScript and about to start learning React
+- 🚧  Currently working on Personal Portfolio using CSS, HTML, JavaScript
+- 🤿  Diving deeper in JavaScript and about to start learning React 💪
 - 📚  I worked on 3 different projects using Ruby on Rails. You can check the most recent here: http://www.plantpicker.org/
 - 🔍  Searching small projects/collaborations to get started with the post-Bootcamp life!
 - 💬  Always up for a good chat/receive friendly coding tips

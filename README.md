@@ -1,5 +1,5 @@
 ### Hi this is Tina 👋
-- 🎉  Personal Profile is ready! Head to https://tinaiuso.com (Improvements will follow!)
+- 🎉  Head to my website https://tinaiuso.com (Improvements will follow!)
 - 🚧  Currently practising some more Ruby on Rails.
 - 🤿  Diving deeper in JavaScript and learning React 💪
 - 📚  I worked on 3 different projects using Ruby on Rails. You can check the most recent here: http://www.plantpicker.org/

@@ -1,7 +1,7 @@
 ### Hi this is Tina 👋
 - 🎉  Head to my website https://tinaiuso.com (improvements will follow!)
 - 🚧  Currently practising some more Ruby on Rails.
-- 🤿  Diving deeper in JavaScript and learning React 💪
+- 🤿  Diving deeper in JavaScript and learning React with Redux 💪
 - 🔍  Searching small projects/collaborations to get started with the post-Bootcamp life!
 - 💬  Always up for a good chat/receive friendly coding tips
 - 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/concetta-iuso)

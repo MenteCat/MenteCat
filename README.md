@@ -1,5 +1,5 @@
 ### Hi this is Tina 👋
-- 🎉  Head to my website https://tinaiuso.com (improvements will follow!)
+- 🎉  Head to my website https://tinaiuso.com (improvements will follow!).
 - 💪  Practising React.
 - ⏪  Refreshing some basic knowledge of Python.
 - 🚧  Enrolled in Data Analysis with Python on [freeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python).

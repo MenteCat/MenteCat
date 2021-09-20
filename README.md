@@ -1,8 +1,7 @@
 ### Hi this is Tina 👋
 - 💪  Practising React.
 - ⏪  Refreshing Python.
-- 🚧  Enrolled in Data Analysis with Python on [freeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python).
-- 🚀  Participant of the Software Developer Accelerator Programme at The Intrapreneurs Club (https://www.theintrapreneurs.club).
+- 🚀  Completed the Software Developer Accelerator Programme with The Intrapreneurs Club (https://www.theintrapreneurs.club).
 - 💬  Always up for a good chat/receive friendly coding tips.
 - 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/concetta-iuso).
 

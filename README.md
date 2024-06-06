@@ -1,6 +1,6 @@
 ### Hi this is Tina 👋
 
-- 🚀  Completed the Software Developer Accelerator Programme with The Intrapreneurs Club (https://www.theintrapreneurs.club).
+- 🚀  Developer with a keen interest in Frontend 
 - 💬  Always up for a good chat/receive friendly coding tips.
 - 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/concetta-iuso).
 

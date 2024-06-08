@@ -8,6 +8,9 @@ I'm a developer with a keen interest in Frontend development. I enjoy building u
 - **[Gardener-Website](https://github.com/MenteCat/Gardener-Website):** A responsive website for gardeners, hosted on Firebase.
 - **[Public Toilets API](https://github.com/MenteCat/public-toilets-api):** A Rails API project using OpenStreetMap data.
 
+## 👷‍♀️ Under Construction (mainly done)
+- **[Where in the world](https://github.com/MenteCat/Where_in_the_world):** React application built with TypeScript and Vite, using the REST Countries API.
+
 ## 💼 Experience
 - **Frontend Technologies:** React, TypeScript, Tailwind CSS, HTML, JS
 - **Back-End Knowledge:** Ruby on Rails, Node.js

@@ -10,6 +10,7 @@ I'm a developer with a keen interest in Frontend development. I enjoy building u
 
 ## 👷‍♀️ Under Construction (mainly done) || exercises
 - **[Where in the world](https://github.com/MenteCat/Where_in_the_world):** React application built with TypeScript and Vite, using the REST Countries API.
+- **[My Cards Tailwind](https://github.com/MenteCat/my-cards-tailwind/tree/main):** React mini-project built with TypeScript and Vite, using Tailwind CSS to style cards.
 
 ## 💼 Experience
 - **Frontend Technologies:** React, TypeScript, Tailwind CSS, HTML, JS

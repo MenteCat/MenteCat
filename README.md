@@ -7,6 +7,7 @@ I'm a developer with a keen interest in Frontend development. I enjoy building u
 - **[React Learner Management System](https://github.com/MenteCat/react-learner-management-system):** A comprehensive LMS built with React.
 - **[Gardener-Website](https://github.com/MenteCat/Gardener-Website):** A responsive website for gardeners, hosted on Firebase.
 - **[Public Toilets API](https://github.com/MenteCat/public-toilets-api):** A Rails API project using OpenStreetMap data.
+- **[React-SPA](https://github.com/MenteCat/React-SPA)** A React single page application showcasing a fictitious product.
 
 ## 👷‍♀️ Under Construction (mainly done) || exercises
 - **[Where in the world](https://github.com/MenteCat/Where_in_the_world):** React application built with TypeScript and Vite, using the REST Countries API.
@@ -14,7 +15,7 @@ I'm a developer with a keen interest in Frontend development. I enjoy building u
 
 ## 💼 Experience
 - **Frontend Technologies:** React, TypeScript, Tailwind CSS, HTML, JS
-- **Back-End Knowledge:** Ruby on Rails, Node.js
+- **Back-End Knowledge:** Ruby on Rails (bootcamp knowledge), Node.js (work knowledge), .NET, C# (basic knowledge)
 - **Content Management Systems:** 1 year of experience with Adobe Experience Manager (CMS platform)
 - **Customer Data Platforms:** 1 year experience with Adobe Experience Platform (AEP)
 

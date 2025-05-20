@@ -10,6 +10,7 @@ I'm a developer with a keen interest in Frontend development. I enjoy building u
 - **[React-SPA](https://github.com/MenteCat/React-SPA)** A React single page application showcasing a fictitious product.
 
 ## 👷‍♀️ Under Construction (mainly done) || exercises
+- **[Python APIs data integration with Neo4j](https://github.com/MenteCat/Python-APIs-data-integration-exercise):** A project demonstrating how to fetch, clean, and load book data from the Open Library API into a Neo4j graph database for analysis and visualization.
 - **[Where in the world](https://github.com/MenteCat/Where_in_the_world):** React application built with TypeScript and Vite, using the REST Countries API.
 - **[My Cards Tailwind](https://github.com/MenteCat/my-cards-tailwind/tree/main):** React mini-project built with TypeScript and Vite, using Tailwind CSS to style cards.
 
